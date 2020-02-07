@@ -11,3 +11,5 @@ class Dog
     puts "woof!"
   end
 end
+
+Fide.name
