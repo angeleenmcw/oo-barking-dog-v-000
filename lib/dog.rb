@@ -10,4 +10,4 @@ class Dog
     name.new 
     puts "woof!"
   end
-  
+end
