@@ -12,4 +12,4 @@ class Dog
   end
 end
 
-Fide.name
+Fido.name
