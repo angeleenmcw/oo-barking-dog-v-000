@@ -2,7 +2,8 @@ class Dog
   def set_name(new_name) 
     @name = new_name
   end
-def 
+def get_name
+  
   def bark
     name
     puts "woof!"
