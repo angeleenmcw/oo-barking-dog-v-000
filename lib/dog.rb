@@ -12,7 +12,7 @@ def name
 end
 
   def bark
-    name
+    if name
     puts "woof!"
   end
 end
