@@ -17,3 +17,7 @@ end
   end
 end
 
+fido = Dog.new_name
+fido.name = "Fido"
+
+fido.bark
