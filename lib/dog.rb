@@ -12,7 +12,7 @@ def name
 end
 
   def bark
-    if new_name = @name
+    if new_name = name
     puts "woof!"
   end
 end
