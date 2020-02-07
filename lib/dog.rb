@@ -7,6 +7,10 @@ def get_name
   @name
 end
 
+def name
+  @name
+end
+
   def bark
     name
     puts "woof!"
